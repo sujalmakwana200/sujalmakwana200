@@ -1,19 +1,27 @@
 <div align="center">
 
-# Hey, I'm Sujal 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f2937&height=180&section=header&text=Sujal%20Makwana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### AI/ML Builder · Data · Software Engineering
+<a href="https://github.com/sujalmakwana200">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Builder;Data+%26+Software+Engineering;Turning+ideas+into+working+projects" />
+</a>
 
 <p>
   <a href="https://github.com/sujalmakwana200">
-    <img src="https://img.shields.io/github/followers/sujalmakwana200?style=for-the-badge&logo=github&label=Followers">
+    <img src="https://img.shields.io/github/followers/sujalmakwana200?style=for-the-badge&logo=github&label=FOLLOWERS" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sujalmakwana200&style=for-the-badge&label=PROFILE+VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=sujalmakwana200&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,solidity,git,github,streamlit,jupyter,pandas" />
-</p>
+</div>
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,java,solidity,git,github,streamlit,jupyter,pandas" />
 
 </div>
 
@@ -27,12 +35,12 @@
 
 ### 🧊 FrostGaurd AI
 
-Cold-chain logistics monitoring prototype for temperature-sensitive cargo.
+Cold-chain logistics monitoring prototype with live telemetry simulation, temperature thresholds, emergency rerouting, AI analysis, mapping and alerts.
 
 **Python · Streamlit · Flask · PyDeck · Gemini · OSRM**
 
 <a href="https://github.com/sujalmakwana200/FrostGaurd-AI-Red-Dragon">
-  View Project →
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -41,12 +49,12 @@ Cold-chain logistics monitoring prototype for temperature-sensitive cargo.
 
 ### 🏠 Real Estate Analytics
 
-Interactive sales dashboard for exploring property data, KPIs and geographic trends.
+Interactive sales dashboard with KPI tracking, geographic visualization, filters and CSV upload support.
 
-**Python · Streamlit · Pandas · Plotly**
+**Python · Streamlit · Pandas · NumPy · Plotly**
 
 <a href="https://github.com/sujalmakwana200/Luxe-Property-Group-deshboard">
-  View Project →
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -57,12 +65,12 @@ Interactive sales dashboard for exploring property data, KPIs and geographic tre
 
 ### 🏎️ F1 Racing Dashboard
 
-Interactive Formula 1 dashboard using live racing data and driver comparisons.
+Interactive Formula 1 dashboard using FastF1 data with race visualization, driver comparison and dynamic filtering.
 
 **Python · Streamlit · Pandas · Plotly · FastF1**
 
 <a href="https://github.com/sujalmakwana200/f1_deshboard">
-  View Project →
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -71,12 +79,12 @@ Interactive Formula 1 dashboard using live racing data and driver comparisons.
 
 ### 🔐 C Secure Diary
 
-Command-line diary system with password protection, CRUD operations and XOR-based file encryption.
+Command-line diary system with password protection, CRUD operations, binary file I/O and XOR-based encryption.
 
-**C · File I/O · Structs**
+**C · Structs · File I/O · XOR**
 
 <a href="https://github.com/sujalmakwana200/C-SECURE-DIARY-PROJECT">
-  View Project →
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -85,57 +93,70 @@ Command-line diary system with password protection, CRUD operations and XOR-base
 
 ---
 
-## 🧠 Tech Stack
+## 📊 GitHub Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,solidity" />
-</p>
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,streamlit,jupyter,pandas" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sujalmakwana200&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalmakwana200&layout=compact&hide_border=true&langs_count=8" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sujalmakwana200&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
 
 ---
 
 ## 🌱 Currently Learning
 
-```text
-Machine Learning
-Algorithms & Data Structures
-Python
-Software Engineering
-```
-
----
-
-## 📊 GitHub
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujalmakwana200&show_icons=true&hide_border=true&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalmakwana200&layout=compact&hide_border=true" height="165">
+`Machine Learning`   `Python`   `Algorithms`   `Data Engineering`   `Software Engineering`
 
 </div>
 
 ---
 
-## 🎯 What I Like Building
+## ⚡ What I'm Building Toward
 
-**AI & Machine Learning**
-Practical systems that use data to detect, predict or assist with decisions.
+<div align="center">
 
-**Data Applications**
-Interactive dashboards and tools that make data easier to understand.
+**AI/ML × Data × Software Engineering**
 
-**Software Projects**
-Small systems that help me strengthen programming and engineering fundamentals.
+</div>
+
+I'm focused on strengthening the fundamentals behind the projects I build and gradually moving from prototypes toward more robust, production-style systems.
 
 ---
 
 <div align="center">
 
-### Building → Learning → Improving 🚀
+<a href="https://github.com/sujalmakwana200?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-238636?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
+<br>
+
+<div align="center">
+
+### Build. Learn. Ship. Repeat. 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0f0f0f&height=100&section=footer" width="100%"/>
