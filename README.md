@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,solidity,git,github,streamlit,jupyter,pandas" />
+<img src="https://skillicons.dev/icons?i=python,c,java,solidity,git,github,streamlit,jupyter,pandas,plotly" />
 
 </div>
 
@@ -93,6 +93,66 @@ Command-line diary system with password protection, CRUD operations, binary file
 
 ---
 
+## 🧩 What I Build
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🤖 AI / ML
+
+Intelligent systems
+Anomaly detection
+ML experiments
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊 Data
+
+Analytics dashboards
+Data visualization
+Real-world datasets
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Software
+
+Programming
+APIs & applications
+Engineering fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔭 Currently Building
+
+<div align="center">
+
+### 🧊 FrostGaurd AI
+
+Improving real-time monitoring, anomaly detection and system reliability.
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+`Python`   `Machine Learning`   `Algorithms & Data Structures`   `Data Engineering`   `Software Engineering`
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -121,64 +181,13 @@ Command-line diary system with password protection, CRUD operations, binary file
 
 ---
 
-## 🌱 Currently Learning
-
-<div align="center">
-        🤖 AI / ML
-   Intelligent systems
-   anomaly detection
-   ML experiments
-
-
-        📊 DATA
-   Analytics dashboards
-   visualization
-   real-world datasets
-
-
-        ⚙️ SOFTWARE
-   Programming
-   APIs
-   applications
-   engineering fundamentals
-
-`Machine Learning`   `Python`   `Algorithms`   `Data Engineering`   `Software Engineering`
-
-</div>
-
----
-
-## ⚡ What I'm Building Toward
-
-<div align="center">
-
-**AI/ML × Data × Software Engineering**
-
-</div>
-
-I'm focused on strengthening the fundamentals behind the projects I build and gradually moving from prototypes toward more robust, production-style systems.
-
----
-🔭 Currently Building
-
-FrostGaurd AI
-Improving real-time monitoring,
-anomaly detection and system reliability.
-
-📚 Currently Learning
-
-Python • Machine Learning • DSA
 <div align="center">
 
 <a href="https://github.com/sujalmakwana200?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-238636?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### Build. Learn. Ship. Repeat. 🚀
 
