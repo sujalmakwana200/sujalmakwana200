@@ -159,7 +159,15 @@ Command-line diary system with password protection, CRUD operations, binary file
 I'm focused on strengthening the fundamentals behind the projects I build and gradually moving from prototypes toward more robust, production-style systems.
 
 ---
+🔭 Currently Building
 
+FrostGaurd AI
+Improving real-time monitoring,
+anomaly detection and system reliability.
+
+📚 Currently Learning
+
+Python • Machine Learning • DSA
 <div align="center">
 
 <a href="https://github.com/sujalmakwana200?tab=repositories">
