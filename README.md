@@ -124,6 +124,23 @@ Command-line diary system with password protection, CRUD operations, binary file
 ## 🌱 Currently Learning
 
 <div align="center">
+        🤖 AI / ML
+   Intelligent systems
+   anomaly detection
+   ML experiments
+
+
+        📊 DATA
+   Analytics dashboards
+   visualization
+   real-world datasets
+
+
+        ⚙️ SOFTWARE
+   Programming
+   APIs
+   applications
+   engineering fundamentals
 
 `Machine Learning`   `Python`   `Algorithms`   `Data Engineering`   `Software Engineering`
 
